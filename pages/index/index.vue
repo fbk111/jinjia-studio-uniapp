@@ -1,6 +1,15 @@
 <template>
 	<view class="content">
-	  <v-btn>德莫</v-btn>
+<v-app>
+    <v-btn
+	style="width: 100px;"
+      depressed
+      color="primary"
+	  small
+    >
+      Primary
+    </v-btn>
+</v-app>
 	</view>
 </template>
 
